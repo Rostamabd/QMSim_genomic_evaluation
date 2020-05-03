@@ -46,13 +46,15 @@ In this example, for speeding up the computation, we only use the last 2000 indi
 
 You might get some errors, in most cases, those are related to setting the directory for running Exe_EBV.R. 
 
-#### 4. Output files
+## 4. Output files
 
 The default output folder name is r_”parameter file name”, but you can change its name and directory in the output_folder option in input parameter file.
 
 The most important output for computing the prediction accuracy is the last column of data.tmp file which is located is the same directory as input parameter file. Inputed_BV column is GEBVs that are computed in each generation. The GEBV for the last generation is missing in the data.tmp, but it can be retrieved from my_bv.txt file.
 
-Contact Information
+## Contact Information
+
+Please send your comments and suggestions to rostam7474 at gmail dot com
 
 
 
