@@ -1,5 +1,11 @@
 # QMSim Genomic Evaluation
 
+**Maintainer**: *Rostam Abdollahi-Arpanahi*
+
+**Date**: May 3, 2020
+
+---
+
 QMSim is a widely used program for simulation a broad range of genetic architectures and population structures in livestock. Download the manual of program by click on [QMSim_documentation](http://animalbiosciences.uoguelph.ca/~msargol/qmsim/QMSim_documentation.pdf)
 
 The version of program here is a little bit different than the version available in [QMSim home page](http://animalbiosciences.uoguelph.ca/~msargol/qmsim/). So, I would suggest you use the attached version available in the current repository.
@@ -45,4 +51,10 @@ You might get some errors, in most cases, those are related to setting the direc
 The default output folder name is r_”parameter file name”, but you can change its name and directory in the output_folder option in input parameter file.
 
 The most important output for computing the prediction accuracy is the last column of data.tmp file which is located is the same directory as input parameter file. Inputed_BV column is GEBVs that are computed in each generation. The GEBV for the last generation is missing in the data.tmp, but it can be retrieved from my_bv.txt file.
+
+Contact Information
+
+
+
+
 
