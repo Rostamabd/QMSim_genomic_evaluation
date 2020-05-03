@@ -16,9 +16,10 @@ In addition to mandatory Input parameter file, for the genomic evaluation, A sys
 
 Excellent! Now lets run the program:
 
-## 1. Unzip the QMSim file using the following command
+## 1. Download and Unzip the QMSim file using the following command
 
 ```
+git clone https://github.com/Rostamabd/QMSim_genomic_evaluation.git
 unzip QMSim.zip
 ```
 
