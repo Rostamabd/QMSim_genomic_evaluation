@@ -12,7 +12,7 @@ The version of program here is a little bit different than the version available
 
 In order to run QMSim, we need an Input parameter file. The various parameters for the simulation should be specified in the parameter file. The input parameter file must be in ASCII format.
 
-In addition to mandatory Input parameter file, for the genomic evaluation, A system executable external file (Exe_EBV.R) is provided here. This R-script is doing the Genomic evaluation using BayesB method. In case you are interested in other Statistical method for genomic evaluation, you should modify the Rscript at your own risk.
+In addition to mandatory input parameter file, for the genomic evaluation, A system executable external file (Exe_EBV.R) is provided here. This R-script is doing the Genomic evaluation using BayesB method. In case you are interested in other Statistical methods for genomic evaluation, you should modify the Rscript at your own risk.
 
 Excellent! Now lets run the program:
 
